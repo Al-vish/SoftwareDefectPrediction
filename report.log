@@ -1,0 +1,54 @@
+2020-10-13 00:08:36,834 - pyswarms.discrete.binary - INFO - Optimize for 100 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2020-10-13 00:29:33,267 - pyswarms.discrete.binary - INFO - Optimize for 100 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2020-10-14 20:59:38,516 - pyswarms.discrete.binary - INFO - Optimize for 100 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2020-10-14 20:59:44,741 - pyswarms.discrete.binary - INFO - Optimize for 100 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2020-10-14 21:00:52,533 - pyswarms.discrete.binary - INFO - Optimize for 100 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2020-10-14 21:01:23,383 - pyswarms.discrete.binary - INFO - Optimize for 100 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2020-10-14 21:02:35,630 - pyswarms.discrete.binary - INFO - Optimize for 100 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2020-10-14 21:09:21,414 - pyswarms.discrete.binary - INFO - Optimize for 100 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2020-10-14 21:11:46,352 - pyswarms.discrete.binary - INFO - Optimize for 100 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2020-10-14 21:15:49,581 - pyswarms.discrete.binary - INFO - Optimize for 100 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2020-10-14 21:19:06,019 - pyswarms.discrete.binary - INFO - Optimize for 100 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2020-10-14 21:21:55,751 - pyswarms.discrete.binary - INFO - Optimize for 100 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2020-10-14 21:49:08,791 - pyswarms.discrete.binary - INFO - Optimize for 100 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2020-10-14 21:53:39,871 - pyswarms.discrete.binary - INFO - Optimize for 100 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2020-10-14 23:44:23,164 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.2691515823744764, best pos: [1 0 1 1 1 0 1 0 1 0 1 1 1 1 1 1 1 1 1]
+2020-10-24 21:30:53,604 - pyswarms.discrete.binary - INFO - Optimize for 100 iters with {'c1': 1.8, 'c2': 1.8, 'w': 0.9, 'k': 37, 'p': 2}
+2020-10-24 21:37:13,595 - pyswarms.discrete.binary - INFO - Optimize for 200 iters with {'c1': 1.8, 'c2': 1.8, 'w': 0.9, 'k': 37, 'p': 2}
+2020-10-24 22:28:11,250 - pyswarms.discrete.binary - INFO - Optimize for 100 iters with {'c1': 1.9, 'c2': 1.9, 'w': 0.9, 'k': 37, 'p': 2}
+2020-10-24 22:29:08,520 - pyswarms.discrete.binary - INFO - Optimize for 100 iters with {'c1': 1.8, 'c2': 1.8, 'w': 0.9, 'k': 37, 'p': 2}
+2020-10-24 23:52:17,579 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.0028172967283572083, best pos: [1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+2020-10-24 23:54:21,205 - pyswarms.discrete.binary - INFO - Optimize for 100 iters with {'c1': 2.2, 'c2': 2.2, 'w': 0.9, 'k': 28, 'p': 2}
+2020-10-25 00:18:52,194 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.0028172967283572083, best pos: [1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+2020-10-25 00:19:58,468 - pyswarms.discrete.binary - INFO - Optimize for 100 iters with {'c1': 2.6, 'c2': 2.6, 'w': 0.9, 'k': 28, 'p': 2}
+2020-10-25 00:22:57,806 - tensorflow - WARNING - AutoGraph could not transform <function Model.make_train_function.<locals>.train_function at 0x000001613D63B3A8> and will run it as-is.
+Please report this to the TensorFlow team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output.
+Cause: 'arguments' object has no attribute 'posonlyargs'
+To silence this warning, decorate the function with @tf.autograph.experimental.do_not_convert
+2020-10-25 00:23:33,208 - tensorflow - WARNING - AutoGraph could not transform <function Model.make_train_function.<locals>.train_function at 0x0000016145ECF3A8> and will run it as-is.
+Please report this to the TensorFlow team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output.
+Cause: 'arguments' object has no attribute 'posonlyargs'
+To silence this warning, decorate the function with @tf.autograph.experimental.do_not_convert
+2020-10-25 00:45:47,462 - pyswarms.discrete.binary - INFO - Optimize for 100 iters with {'c1': 2.4, 'c2': 2.4, 'w': 0.9, 'k': 29, 'p': 2}
+2020-10-25 01:07:34,294 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.0028172967283572083, best pos: [1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+2020-10-25 01:49:51,324 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.0028172967283572083, best pos: [1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+2020-10-25 02:18:46,799 - pyswarms.discrete.binary - INFO - Optimize for 100 iters with {'c1': 1.7, 'c2': 1.7, 'w': 0.9, 'k': 28, 'p': 2}
+2020-11-05 15:25:43,654 - tensorflow - WARNING - AutoGraph could not transform <function Model.make_train_function.<locals>.train_function at 0x000001D3D6B69D38> and will run it as-is.
+Please report this to the TensorFlow team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output.
+Cause: 'arguments' object has no attribute 'posonlyargs'
+To silence this warning, decorate the function with @tf.autograph.experimental.do_not_convert
+2020-11-05 15:26:15,218 - tensorflow - WARNING - AutoGraph could not transform <function Model.make_train_function.<locals>.train_function at 0x000001D3EE2F9B88> and will run it as-is.
+Please report this to the TensorFlow team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output.
+Cause: 'arguments' object has no attribute 'posonlyargs'
+To silence this warning, decorate the function with @tf.autograph.experimental.do_not_convert
+2020-11-05 22:51:52,173 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 0.9, 'c2': 0.9, 'w': 0.45, 'k': 60, 'p': 10}
+2020-11-05 22:53:17,324 - pyswarms.discrete.binary - INFO - Optimize for 100 iters with {'c1': 0.9, 'c2': 0.9, 'w': 0.45, 'k': 60, 'p': 10}
+2020-11-06 13:18:53,385 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.8863157894736842, best pos: [1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1]
+2020-11-06 14:50:17,756 - pyswarms.discrete.binary - INFO - Optimize for 20 iters with {'c1': 0.33, 'c2': 0.33, 'w': 0.34, 'k': 1, 'p': 2}
+2020-11-06 14:52:18,000 - pyswarms.discrete.binary - INFO - Optimize for 20 iters with {'c1': 0.33, 'c2': 0.33, 'w': 0.34, 'k': 1, 'p': 2}
+2020-11-06 15:26:26,074 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.911578947368421, best pos: [1 1 1 1 1 0 1 1 0 1 1 0 1 1 1 0 1 1 0]
+2020-11-06 18:38:15,702 - pyswarms.discrete.binary - INFO - Optimize for 50 iters with {'c1': 0.72, 'c2': 0.72, 'w': 0.5, 'k': 20, 'p': 3}
+2020-11-06 19:33:55,469 - pyswarms.discrete.binary - INFO - Optimize for 50 iters with {'c1': 0.72, 'c2': 0.72, 'w': 0.5, 'k': 20, 'p': 3}
+2020-11-06 20:57:10,962 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.9052631578947369, best pos: [1 1 0 1 1 1 1 1 1 0 1 1 1 0 1 1 0 1 1]
+2020-11-08 18:53:16,844 - pyswarms.discrete.binary - INFO - Optimize for 50 iters with {'c1': 0.72, 'c2': 0.72, 'w': 0.5, 'k': 20, 'p': 3}
+2020-11-08 20:32:50,390 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.8989473684210526, best pos: [1 1 1 1 1 1 0 1 1 1 1 1 0 1 0 1 1 1 1]

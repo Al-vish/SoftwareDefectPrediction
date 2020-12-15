@@ -1,0 +1,101 @@
+NB/wSmote/woPSO
+auc : 0.57
+Average precision-recall score: 0.54
+Recall: 0.933
+Accuracy: 0.577
+Precision: 0.547
+F-Measure: 0.690
+
+
+
+
+
+
+NB/wAdasyn/woPSO
+auc: 0.57
+Average precision-recall score: 0.54
+Recall: 0.929
+Accuracy: 0.573
+Precision: 0.546
+F-Measure: 0.688
+
+
+
+
+
+
+######################this is for   {'c1': 0.72, 'c2': 0.72, 'w':0.5, 'k': 20, 'p':3} ################
+svm geode
+(weighted)
+auc : 0.723
+Average precision-recall score: 0.66
+Recall: 0.723
+Accuracy: 0.723
+Precision: 0.723
+F-Measure: 0.723
+
+(binary)
+Average precision-recall score: 0.66
+Recall: 0.716
+Accuracy: 0.723
+Precision: 0.729
+F-Measure: 0.722
+
+svm geode pso
+auc:0.873 
+(weighted)
+
+Average precision-recall score: 0.81
+Recall: 0.874
+Accuracy: 0.874
+Precision: 0.883
+F-Measure: 0.873
+
+(binary)
+Average precision-recall score: 0.81
+Recall: 0.952
+Accuracy: 0.874
+Precision: 0.825
+F-Measure: 0.884
+
+
+
+
+
+
+
+
+
+
+svm flink
+(weifghted)
+auc:0.8752
+Average precision-recall score: 0.81
+Recall: 0.876
+Accuracy: 0.876
+Precision: 0.885
+F-Measure: 0.875
+
+(binary)
+Average precision-recall score: 0.81
+Recall: 0.955
+Accuracy: 0.876
+Precision: 0.826
+F-Measure: 0.886
+
+
+svm pso
+auc: 0.71
+(binary)
+Average precision-recall score: 0.66
+Recall: 0.705
+Accuracy: 0.715
+Precision: 0.723
+F-Measure: 0.714
+
+(weighted)
+Average precision-recall score: 0.66
+Recall: 0.715
+Accuracy: 0.715
+Precision: 0.716
+F-Measure: 0.715
